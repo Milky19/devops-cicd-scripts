@@ -83,6 +83,9 @@ sudo systemctl status nexus
 
 tail -f /opt/sonatype-work/nexus3/log/nexus.log 
 
+
+
+
 ufw allow 8081/tcp   --> if required
 
 http://server_IP:8081  
