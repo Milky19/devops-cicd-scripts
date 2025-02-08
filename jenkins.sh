@@ -15,3 +15,6 @@ systemctl status jenkins.service
 
 #STEP-5: Auto-Start Jenkins
 chkconfig jenkins on
+
+
+
