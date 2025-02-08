@@ -9,3 +9,6 @@ sed -i '56d' apache-tomcat-10.1.34/conf/tomcat-users.xml
 sed -i '21d' apache-tomcat-10.1.34/webapps/manager/META-INF/context.xml
 sed -i '22d' apache-tomcat-10.1.34/webapps/manager/META-INF/context.xml
 sh apache-tomcat-10.1.34/bin/startup.sh
+
+
+
